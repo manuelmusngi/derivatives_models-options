@@ -94,9 +94,11 @@ The model assigns optimized weights to each component (using k), resulting in an
 #### Implied Volatility Model
 
 #### Black-Scholes
-∂V / ∂t + 
-1/2 σ2 S2 ∂2V/∂S2 
-+rS ∂V/∂S −rV = 0.
+
+Black-Scholes model:
+$$
+\frac{\partial V}{\partial t} + \frac{1}{2} \sigma^2 S^2 \frac{\partial^2 V}{\partial S^2} + rS \frac{\partial V}{\partial S} - rV = 0
+$$
 
 black_scholes_cpp20/\
 ├── [CMakeLists.txt](https://github.com/manuelmusngi/derivatives_models_for_options/blob/main/directory_structure/CMakeLists.txt )\

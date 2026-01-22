@@ -1,4 +1,4 @@
-#### Derivatives Modeling – Volatility Models
+#### Derivatives Modeling – Options Volatility Models
 
 This repository provides implementations of **realized volatility estimators** and **implied volatility models** commonly used in quantitative finance and derivatives pricing. The goal is to offer a modular, reproducible framework for exploring volatility dynamics, benchmarking estimators, and applying them to option pricing and risk management.
 

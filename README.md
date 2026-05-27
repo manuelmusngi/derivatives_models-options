@@ -12,11 +12,6 @@ This repository provides implementations of **realized volatility estimators** a
   <img src="https://img.shields.io/github/repo-size/manuelmusngi/derivatives_models-options?style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/github/languages/top/manuelmusngi/derivatives_models-options?style=for-the-badge&color=yellow" />
 
-  <!-- Python & Dependencies -->
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
 
   <!-- Quant & Modeling Context -->
   <img src="https://img.shields.io/badge/Models-Black--Scholes%20%7C%20Heston%20%7C%20SABR-4B0082?style=for-the-badge" />

@@ -13,9 +13,6 @@ This repository provides implementations of **realized volatility estimators** a
   <!-- Quant & Modeling Context -->
   <img src="https://img.shields.io/badge/Focus-Volatility%20Surface%20%7C%20Stochastic%20Volatility-006400?style=for-the-badge" />
 
-  <!-- License -->
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
-
 </p>
 
 

@@ -2,6 +2,32 @@
 
 This repository provides implementations of **realized volatility estimators** and **implied volatility models** commonly used in quantitative finance and derivatives pricing. The goal is to offer a modular, reproducible framework for exploring volatility dynamics, benchmarking estimators, and applying them to option pricing and risk management.
 
+<p align="center">
+
+  <!-- Project Identity -->
+  <img src="https://img.shields.io/badge/Project-Derivatives%20Volatility%20Models-1A73E8?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- Build & Repo Status -->
+  <img src="https://img.shields.io/github/last-commit/manuelmusngi/derivatives_models-options?style=for-the-badge&color=brightgreen" />
+  <img src="https://img.shields.io/github/repo-size/manuelmusngi/derivatives_models-options?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/languages/top/manuelmusngi/derivatives_models-options?style=for-the-badge&color=yellow" />
+
+  <!-- Python & Dependencies -->
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+
+  <!-- Quant & Modeling Context -->
+  <img src="https://img.shields.io/badge/Models-Black--Scholes%20%7C%20Heston%20%7C%20SABR-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Volatility%20Surface%20%7C%20Stochastic%20Volatility-006400?style=for-the-badge" />
+
+  <!-- License -->
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+
+</p>
+
+
 #### Realized Volatility Models
 #### close-to-close 
 

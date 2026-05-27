@@ -8,7 +8,6 @@ This repository provides implementations of **realized volatility estimators** a
   <img src="https://img.shields.io/badge/Project-Derivatives%20Volatility%20Models-1A73E8?style=for-the-badge&logo=python&logoColor=white" />
 
   <!-- Build & Repo Status -->
-  <img src="https://img.shields.io/github/repo-size/manuelmusngi/derivatives_models-options?style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/github/languages/top/manuelmusngi/derivatives_models-options?style=for-the-badge&color=yellow" />
 
 

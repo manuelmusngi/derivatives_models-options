@@ -1,13 +1,3 @@
-<p align="left">
-
-  <!-- Project Identity -->
-  <img src="https://img.shields.io/badge/Project-Derivatives%20Volatility%20Models-1A73E8?style=for-the-badge&logo=python&logoColor=white" />
-
-  <!-- Build & Repo Status -->
-  <img src="https://img.shields.io/github/languages/top/manuelmusngi/derivatives_models-options?style=for-the-badge&color=yellow" />
-
-</p>
-
 #### Derivatives Modeling – Options Volatility Models
 
 This repository provides implementations of **realized volatility estimators** and **implied volatility models** commonly used in quantitative finance and derivatives pricing. The goal is to offer a modular, reproducible framework for exploring volatility dynamics, benchmarking estimators, and applying them to option pricing and risk management.

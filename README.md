@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
 
   <!-- Project Identity -->
   <img src="https://img.shields.io/badge/Project-Derivatives%20Volatility%20Models-1A73E8?style=for-the-badge&logo=python&logoColor=white" />

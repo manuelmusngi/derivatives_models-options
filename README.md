@@ -1,7 +1,7 @@
 #### Derivatives Modeling – Options Volatility Models
 
 ![Repo](https://img.shields.io/badge/Derivatives-Options%20Volatility%20Models-blue)
-![Language](https://img.shields.io/badge/programming C++.x-green)
+![Language](https://img.shields.io/badge/C++.green)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Volatility](https://img.shields.io/badge/focus-Volatility%20Models-orange)
 ![Category](https://img.shields.io/badge/domain-Quant%20Finance-purple)
